@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-
 print("Hello World!")
-=======
-print("Hello world!")
->>>>>>> Intermediate/master
+print("Hello from feature")
